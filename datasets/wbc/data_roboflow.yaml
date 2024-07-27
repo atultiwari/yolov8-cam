@@ -1,0 +1,19 @@
+names:
+- basophil
+- eosinophil
+- ig
+- lymphocyte
+- monocyte
+- neutrophil
+- nrbc
+- platelet
+nc: 8
+roboflow:
+  license: CC BY 4.0
+  project: dlc-wkxfr
+  url: https://universe.roboflow.com/dratultiwari/dlc-wkxfr/dataset/3
+  version: 3
+  workspace: dratultiwari
+test: ../test/images
+train: DLC-3/train/images
+val: DLC-3/valid/images

@@ -1,0 +1,14 @@
+train: "F:/AI/yolov8-cam/datasets/wbc/train"
+val: "F:/AI/yolov8-cam/datasets/wbc/valid"
+test: "F:/AI/yolov8-cam/datasets/wbc/test"
+
+nc: 8
+names:
+- basophil
+- eosinophil
+- ig
+- lymphocyte
+- monocyte
+- neutrophil
+- nrbc
+- platelet
